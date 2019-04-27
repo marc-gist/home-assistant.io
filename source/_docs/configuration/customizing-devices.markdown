@@ -14,10 +14,10 @@ redirect_from: /getting-started/customizing-devices/
 
 You can use the UI to change the `entity_id` and friendly name of supported entities. To do this:
 
-1. Select the entity, either from or from the frontend, or by clicking <img src='/images/frontend/entity_box.png' /> next to the entity in the dev-states menu
-2. Click on the cog in the right corner of the entity's dialog
+1. Go to the Configuration Menu and Select "Entity Registry"
+2. Find the Entity You wish to change
 3. Enter the new name or the new entity ID (remember not to change the domain of the entity - the part before the `.`)
-4. Select *Save*
+4. Select *Update*
 
 ## {% linkable_title Customizing entities %}
 
